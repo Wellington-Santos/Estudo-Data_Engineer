@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite
+
+# Virtual Environment
+venv/
+env/
+*.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Pytest
+*.coveragerc
+*.tox/
+.nox/
+*.coverage
+*.hypothesis/
+
+# Databricks
+*.dbc/
+*.dbfs/
+*.databricks/
+
+# SQL
+*.sqlite3
+*.db
+
+# Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
